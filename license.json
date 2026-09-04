@@ -4,6 +4,13 @@
     "default": {
       "active": false,
       "expires": "2026-09-01"
+    },
+    "TestUser": {
+      "active": true,
+      "hwid": "AAAA-BBBB",
+      "sure": "6 saat",
+      "etkinlestirme": "2026-09-04 17:01",
+      "bitis": "2026-09-04 23:01"
     }
   }
 }
