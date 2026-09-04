@@ -4,23 +4,6 @@
     "default": {
       "active": false,
       "expires": "2026-09-01"
-    },
-    "BoldDucks": {
-      "active": false,
-      "hwid": "9351-325C"
-    },
-    "9351-325C": {
-      "active": false
-    },
-    "erenapiniz": {
-      "active": false,
-      "hwid": "CB30-FEC1"
-    },
-    "erenpininiz": {
-      "active": false
-    },
-    "CB30-FEC1": {
-      "active": false
     }
   }
 }
