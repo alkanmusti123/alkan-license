@@ -4,12 +4,6 @@
     "default": {
       "active": true,
       "expires": "2026-09-10"
-    },
-    "erenapiniz": {
-      "active": false
-    },
-    "CB30-FEC1": {
-      "active": false
     }
   }
 }
