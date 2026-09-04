@@ -5,17 +5,11 @@
       "active": true,
       "expires": "2026-09-10"
     },
-    "Ahmet": {
-      "active": true,
-      "expires": "2026-09-10"
+    "erenapiniz": {
+      "active": false
     },
-    "Mehmet": {
-      "active": true,
-      "expires": "2026-09-08"
-    },
-    "Ali": {
-      "active": false,
-      "expires": "2026-09-10"
+    "CB30-FEC1": {
+      "active": false
     }
   }
 }
