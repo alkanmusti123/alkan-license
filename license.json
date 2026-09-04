@@ -5,12 +5,19 @@
       "active": false,
       "expires": "2026-09-01"
     },
-    "TestUser": {
+    "erenapiniz": {
       "active": true,
-      "hwid": "AAAA-BBBB",
+      "hwid": "CB30-FEC1",
       "sure": "6 saat",
-      "etkinlestirme": "2026-09-04 17:01",
-      "bitis": "2026-09-04 23:01"
+      "etkinlestirme": "2026-09-04 16:50",
+      "bitis": "2026-09-04 22:50"
+    },
+    "BoldDucks": {
+      "active": true,
+      "hwid": "9351-325C",
+      "sure": "6 saat",
+      "etkinlestirme": "2026-09-04 16:50",
+      "bitis": "2026-09-04 22:50"
     }
   }
 }
