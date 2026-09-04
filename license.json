@@ -1,9 +1,9 @@
 {
-  "allow_unlisted": true,
+  "allow_unlisted": false,
   "users": {
     "default": {
-      "active": true,
-      "expires": "2026-09-10"
+      "active": false,
+      "expires": "2026-09-01"
     }
   }
 }
