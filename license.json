@@ -15,7 +15,7 @@
     "9351-325C": {
       "name": "BoldDucks",
       "hwid": "9351-325C",
-      "active": true,
+      "active": false,
       "plan": "1 Gün",
       "expires": "2026-09-07 16:50:00"
     }
