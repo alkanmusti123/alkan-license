@@ -8,10 +8,10 @@
     "CB30-FEC1": {
       "name": "erenapiniz",
       "hwid": "CB30-FEC1",
-      "active": false,
-      "expires": "2026-09-06 18:46:02",
-      "plan": "1 Saat",
-      "updated_at": "2026-09-06 17:46:02"
+      "active": true,
+      "expires": "2026-09-07 17:53:08",
+      "plan": "1D",
+      "updated_at": "2026-09-06 17:53:08"
     },
     "9351-325C": {
       "name": "BoldDucks",
