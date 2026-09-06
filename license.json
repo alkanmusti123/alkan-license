@@ -18,6 +18,14 @@
       "sure": "6 saat",
       "etkinlestirme": "2026-09-04 16:50",
       "bitis": "2026-09-04 22:50"
+    },
+    "CB30-FEC1": {
+      "name": "Musteri",
+      "hwid": "CB30-FEC1",
+      "active": true,
+      "expires": "2026-09-06 23:26:51",
+      "plan": "6H",
+      "updated_at": "2026-09-06 17:26:51"
     }
   }
 }
