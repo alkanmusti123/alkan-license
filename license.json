@@ -19,6 +19,14 @@
       "active": false,
       "plan": "1 Gün",
       "expires": "2026-09-07 16:50:00"
+    },
+    "824A-1B04": {
+      "name": "Musteri",
+      "hwid": "824A-1B04",
+      "active": true,
+      "expires": "2026-09-08 12:36:10",
+      "plan": "1 Gün",
+      "updated_at": "2026-09-07 12:36:10"
     }
   }
 }
