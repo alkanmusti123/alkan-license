@@ -27,6 +27,13 @@
       "expires": "2026-09-08 12:36:10",
       "plan": "1 Gün",
       "updated_at": "2026-09-07 12:36:10"
+    },
+    "Weshii_afk1": {
+      "active": true,
+      "hwid": "824A-1B04",
+      "sure": "1 gun",
+      "etkinlestirme": "2026-09-07 15:36",
+      "bitis": "2026-09-08 15:36"
     }
   }
 }
