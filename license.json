@@ -80,6 +80,13 @@
       "expires": "2026-09-22 20:41:08",
       "plan": "7 Gün",
       "updated_at": "2026-09-15 20:41:08"
+    },
+    "BayEgoist": {
+      "active": true,
+      "hwid": "72C9-9902",
+      "sure": "7 gun",
+      "etkinlestirme": "2026-09-15 23:41",
+      "bitis": "2026-09-22 23:41"
     }
   }
 }
