@@ -72,6 +72,14 @@
       "sure": "1 gun",
       "etkinlestirme": "2026-09-15 20:44",
       "bitis": "2026-09-16 20:44"
+    },
+    "72C9-9902": {
+      "name": "Musteri",
+      "hwid": "72C9-9902",
+      "active": true,
+      "expires": "2026-09-22 20:41:08",
+      "plan": "7 Gün",
+      "updated_at": "2026-09-15 20:41:08"
     }
   }
 }
