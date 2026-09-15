@@ -34,6 +34,14 @@
       "sure": "1 gun",
       "etkinlestirme": "2026-09-07 15:36",
       "bitis": "2026-09-08 15:36"
+    },
+    "C4B6-AD92": {
+      "name": "Musteri",
+      "hwid": "C4B6-AD92",
+      "active": true,
+      "expires": "2026-09-16 17:29:21",
+      "plan": "1 Gün",
+      "updated_at": "2026-09-15 17:29:21"
     }
   }
 }
