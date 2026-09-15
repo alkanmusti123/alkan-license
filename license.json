@@ -65,6 +65,13 @@
       "expires": "2026-09-16 17:43:54",
       "plan": "1 Gün",
       "updated_at": "2026-09-15 17:43:54"
+    },
+    "Sacramento0": {
+      "active": true,
+      "hwid": "1643-3122",
+      "sure": "1 gun",
+      "etkinlestirme": "2026-09-15 20:44",
+      "bitis": "2026-09-16 20:44"
     }
   }
 }
