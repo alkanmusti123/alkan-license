@@ -8,7 +8,7 @@
     "CB30-FEC1": {
       "name": "erenapiniz",
       "hwid": "CB30-FEC1",
-      "active": true,
+      "active": false,
       "expires": "2026-09-14 19:56:10",
       "plan": "7 Gün",
       "updated_at": "2026-09-07 19:56:10"
@@ -23,22 +23,15 @@
     "824A-1B04": {
       "name": "Musteri",
       "hwid": "824A-1B04",
-      "active": true,
+      "active": false,
       "expires": "2026-09-08 12:36:10",
       "plan": "1 Gün",
       "updated_at": "2026-09-07 12:36:10"
     },
-    "Weshii_afk1": {
-      "active": true,
-      "hwid": "824A-1B04",
-      "sure": "1 gun",
-      "etkinlestirme": "2026-09-07 15:36",
-      "bitis": "2026-09-08 15:36"
-    },
     "C4B6-AD92": {
       "name": "Musteri",
       "hwid": "C4B6-AD92",
-      "active": true,
+      "active": false,
       "expires": "2026-09-16 17:29:21",
       "plan": "1 Gün",
       "updated_at": "2026-09-15 17:29:21"
@@ -46,62 +39,34 @@
     "C4B6-AD95": {
       "name": "DoktorSantokra",
       "hwid": "C4B6-AD95",
-      "active": true,
+      "active": false,
       "expires": "2026-09-22 18:42:44",
       "plan": "7 Gün",
       "updated_at": "2026-09-15 18:42:44"
     },
-    "DoktorSantokra": {
-      "active": true,
-      "hwid": "C4B6-AD95",
-      "sure": "1 gun",
-      "etkinlestirme": "2026-09-15 20:34",
-      "bitis": "2026-09-16 20:34"
-    },
     "1643-3122": {
       "name": "Sacramento0",
       "hwid": "1643-3122",
-      "active": true,
+      "active": false,
       "expires": "2026-09-22 18:43:09",
       "plan": "7 Gün",
       "updated_at": "2026-09-15 18:43:09"
     },
-    "Sacramento0": {
-      "active": true,
-      "hwid": "1643-3122",
-      "sure": "1 gun",
-      "etkinlestirme": "2026-09-15 20:44",
-      "bitis": "2026-09-16 20:44"
-    },
     "72C9-9902": {
       "name": "Musteri",
       "hwid": "72C9-9902",
-      "active": true,
+      "active": false,
       "expires": "2026-09-22 20:41:08",
       "plan": "7 Gün",
       "updated_at": "2026-09-15 20:41:08"
     },
-    "BayEgoist": {
-      "active": true,
-      "hwid": "72C9-9902",
-      "sure": "7 gun",
-      "etkinlestirme": "2026-09-15 23:41",
-      "bitis": "2026-09-22 23:41"
-    },
     "38D4-A518": {
       "name": "Musteri",
       "hwid": "38D4-A518",
-      "active": true,
+      "active": false,
       "expires": "2026-09-23 19:24:33",
       "plan": "7 Gün",
       "updated_at": "2026-09-16 19:24:33"
-    },
-    "BayanEgoist": {
-      "active": true,
-      "hwid": "38D4-A518",
-      "sure": "7 gun",
-      "etkinlestirme": "2026-09-16 22:24",
-      "bitis": "2026-09-23 22:24"
     }
   }
 }
