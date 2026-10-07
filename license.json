@@ -74,6 +74,14 @@
       "sure": "Sinirsiz",
       "etkinlestirme": "2026-09-26 13:46",
       "bitis": "Sinirsiz"
+    },
+    "329D-3E02": {
+      "name": "Musteri",
+      "hwid": "329D-3E02",
+      "active": true,
+      "expires": "2026-10-14 19:31:55",
+      "plan": "7 Gün",
+      "updated_at": "2026-10-07 19:31:55"
     }
   }
 }
