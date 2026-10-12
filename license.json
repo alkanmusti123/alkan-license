@@ -89,6 +89,13 @@
       "sure": "7 gun",
       "etkinlestirme": "2026-10-07 22:32",
       "bitis": "2026-10-14 22:32"
+    },
+    "Alkanbey": {
+      "active": true,
+      "hwid": "DE60-18A1",
+      "sure": "Sinirsiz",
+      "etkinlestirme": "2026-10-12 17:12",
+      "bitis": "Sinirsiz"
     }
   }
 }
