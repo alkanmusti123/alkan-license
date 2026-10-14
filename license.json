@@ -96,6 +96,13 @@
       "sure": "Sinirsiz",
       "etkinlestirme": "2026-10-12 17:12",
       "bitis": "Sinirsiz"
+    },
+    "sanmataro": {
+      "active": true,
+      "hwid": "8DE3-3D02",
+      "sure": "Sinirsiz",
+      "etkinlestirme": "2026-10-14 13:26",
+      "bitis": "Sinirsiz"
     }
   }
 }
