@@ -73,36 +73,46 @@
       "hwid": "8AB3-FE55",
       "sure": "Sinirsiz",
       "etkinlestirme": "2026-09-26 13:46",
-      "bitis": "Sinirsiz"
+      "bitis": "Sinirsiz",
+      "plan": "Sınırsız (Sahip)",
+      "expires": "2099-01-01 00:00:00"
     },
     "329D-3E02": {
       "name": "Musteri",
       "hwid": "329D-3E02",
-      "active": true,
+      "active": false,
       "expires": "2026-10-14 19:31:55",
       "plan": "7 Gün",
       "updated_at": "2026-10-07 19:31:55"
     },
     "alwerq": {
-      "active": true,
+      "active": false,
       "hwid": "329D-3E02",
       "sure": "7 gun",
       "etkinlestirme": "2026-10-07 22:32",
       "bitis": "2026-10-14 22:32"
     },
     "Alkanbey": {
-      "active": true,
+      "active": false,
       "hwid": "DE60-18A1",
       "sure": "Sinirsiz",
       "etkinlestirme": "2026-10-12 17:12",
       "bitis": "Sinirsiz"
     },
     "sanmataro": {
-      "active": true,
+      "active": false,
       "hwid": "8DE3-3D02",
       "sure": "Sinirsiz",
       "etkinlestirme": "2026-10-14 13:26",
       "bitis": "Sinirsiz"
+    },
+    "8AB3-FE55": {
+      "name": "Mustafa (Alkan)",
+      "hwid": "8AB3-FE55",
+      "active": true,
+      "expires": "2099-01-01 00:00:00",
+      "plan": "Sınırsız (Sahip)",
+      "updated_at": "2026-10-16 18:11:00"
     }
   }
 }
